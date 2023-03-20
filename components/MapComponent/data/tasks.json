@@ -1,0 +1,779 @@
+[
+  {
+    "id": 11449,
+    "address": "г. Брянск, р-н Бежицкий, ул. 3 Интернационала, д.14",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЧерметИпотека",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/14864/edit",
+    "salonPhone": {
+      "label": "+7 900 415-90-23",
+      "value": "+79004159023"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 270-25-16",
+      "value": "+79002702516"
+    },
+    "geoLat": 53.3024395,
+    "geoLon": 34.2990552
+  },
+  {
+    "id": 13901,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.31А",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "РезиноНадзор",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 3,
+    "brandName": "Kérastase",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/25525/edit",
+    "salonPhone": {
+      "label": "+7 900 138-30-43",
+      "value": "+79001383043"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 432-58-93",
+      "value": "+79004325893"
+    },
+    "geoLat": 53.3061254,
+    "geoLon": 34.2939135
+  },
+  {
+    "id": 16261,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.19, к.3",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КомбинатАльянс",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/60751/edit",
+    "salonPhone": {
+      "label": "+7 900 113-09-83",
+      "value": "+79001130983"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 368-39-87",
+      "value": "+79003683987"
+    },
+    "geoLat": 53.306567,
+    "geoLon": 34.2992304
+  },
+  {
+    "id": 16260,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.19, к.3",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КомбинатАльянс",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/60751/edit",
+    "salonPhone": {
+      "label": "+7 900 113-09-83",
+      "value": "+79001130983"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 368-39-87",
+      "value": "+79003683987"
+    },
+    "geoLat": 53.306567,
+    "geoLon": 34.2992304
+  },
+  {
+    "id": 16262,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.19, к.3",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КомбинатАльянс",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 3,
+    "brandName": "Kérastase",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/60751/edit",
+    "salonPhone": {
+      "label": "+7 900 113-09-83",
+      "value": "+79001130983"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 368-39-87",
+      "value": "+79003683987"
+    },
+    "geoLat": 53.306567,
+    "geoLon": 34.2992304
+  },
+  {
+    "id": 26255,
+    "address": "г. Брянск, р-н Бежицкий, ул. Ленинградская, д.2",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "МастерАвтоматика",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/99913/edit",
+    "salonPhone": {
+      "label": "+7 900 659-16-97",
+      "value": "+79006591697"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.29968,
+    "geoLon": 34.302016
+  },
+  {
+    "id": 15418,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.15",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "МаркетВолокно",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/38822/edit",
+    "salonPhone": {
+      "label": "+7 900 155-59-10",
+      "value": "+79001555910"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 590-33-94",
+      "value": "+79005903394"
+    },
+    "geoLat": 53.3066023,
+    "geoLon": 34.3005218
+  },
+  {
+    "id": 17606,
+    "address": "г. Брянск, р-н Бежицкий, ул. Институтская, д.18",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ТоргОбл",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/68316/edit",
+    "salonPhone": {
+      "label": "+7 900 639-84-04",
+      "value": "+79006398404"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 110-76-50",
+      "value": "+79001107650"
+    },
+    "geoLat": 53.3056333,
+    "geoLon": 34.3029197
+  },
+  {
+    "id": 17605,
+    "address": "г. Брянск, р-н Бежицкий, ул. Институтская, д.18",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ТоргОбл",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/68316/edit",
+    "salonPhone": {
+      "label": "+7 900 639-84-04",
+      "value": "+79006398404"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 110-76-50",
+      "value": "+79001107650"
+    },
+    "geoLat": 53.3056333,
+    "geoLon": 34.3029197
+  },
+  {
+    "id": 17607,
+    "address": "г. Брянск, р-н Бежицкий, ул. Институтская, д.18",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ТоргОбл",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/68316/edit",
+    "salonPhone": {
+      "label": "+7 900 639-84-04",
+      "value": "+79006398404"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 110-76-50",
+      "value": "+79001107650"
+    },
+    "geoLat": 53.3056333,
+    "geoLon": 34.3029197
+  },
+  {
+    "id": 24752,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.51",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ВояжТренинг",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/95875/edit",
+    "salonPhone": {
+      "label": "+7 900 636-70-38",
+      "value": "+79006367038"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3060957,
+    "geoLon": 34.2869496
+  },
+  {
+    "id": 24751,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.51",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ВояжТренинг",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/95875/edit",
+    "salonPhone": {
+      "label": "+7 900 636-70-38",
+      "value": "+79006367038"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3060957,
+    "geoLon": 34.2869496
+  },
+  {
+    "id": 13085,
+    "address": "г. Брянск, р-н Бежицкий, ул. Харьковская, д.19",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ПроектПиво",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/22976/edit",
+    "salonPhone": {
+      "label": "+7 900 028-91-93",
+      "value": "+79000289193"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 532-52-56",
+      "value": "+79005325256"
+    },
+    "geoLat": 53.3005228,
+    "geoLon": 34.3054359
+  },
+  {
+    "id": 23833,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.12",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "МонтажФонд",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/93303/edit",
+    "salonPhone": {
+      "label": "+7 900 041-05-91",
+      "value": "+79000410591"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3068734,
+    "geoLon": 34.3039385
+  },
+  {
+    "id": 23832,
+    "address": "г. Брянск, р-н Бежицкий, ул. 22 съезда КПСС, д.12",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "МонтажФонд",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/93303/edit",
+    "salonPhone": {
+      "label": "+7 900 041-05-91",
+      "value": "+79000410591"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3068734,
+    "geoLon": 34.3039385
+  },
+  {
+    "id": 13309,
+    "address": "г. Брянск, р-н Бежицкий, ул. Куйбышева, д.15",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЦветметСплав",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/23849/edit",
+    "salonPhone": {
+      "label": "+7 900 889-79-45",
+      "value": "+79008897945"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 912-96-39",
+      "value": "+79009129639"
+    },
+    "geoLat": 53.3071773,
+    "geoLon": 34.3077652
+  },
+  {
+    "id": 13312,
+    "address": "г. Брянск, р-н Бежицкий, ул. Куйбышева, д.15",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЦветметСплав",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/23849/edit",
+    "salonPhone": {
+      "label": "+7 900 889-79-45",
+      "value": "+79008897945"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 912-96-39",
+      "value": "+79009129639"
+    },
+    "geoLat": 53.3071773,
+    "geoLon": 34.3077652
+  },
+  {
+    "id": 13310,
+    "address": "г. Брянск, р-н Бежицкий, ул. Куйбышева, д.15",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЦветметСплав",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/23849/edit",
+    "salonPhone": {
+      "label": "+7 900 889-79-45",
+      "value": "+79008897945"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 912-96-39",
+      "value": "+79009129639"
+    },
+    "geoLat": 53.3071773,
+    "geoLon": 34.3077652
+  },
+  {
+    "id": 13311,
+    "address": "г. Брянск, р-н Бежицкий, ул. Куйбышева, д.15",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЦветметСплав",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 3,
+    "brandName": "Kérastase",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/23849/edit",
+    "salonPhone": {
+      "label": "+7 900 889-79-45",
+      "value": "+79008897945"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 912-96-39",
+      "value": "+79009129639"
+    },
+    "geoLat": 53.3071773,
+    "geoLon": 34.3077652
+  },
+  {
+    "id": 20967,
+    "address": "г. Брянск, р-н Бежицкий, ул. Камозина, д.2",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КондитерДизель",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/83454/edit",
+    "salonPhone": {
+      "label": "+7 900 745-38-37",
+      "value": "+79007453837"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.2991572,
+    "geoLon": 34.3085022
+  },
+  {
+    "id": 12445,
+    "address": "г. Брянск, р-н Бежицкий, ул. Куйбышева, д.12",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ОкноПеревозка",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/19712/edit",
+    "salonPhone": {
+      "label": "+7 900 905-75-31",
+      "value": "+79009057531"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3076551,
+    "geoLon": 34.3075258
+  },
+  {
+    "id": 11398,
+    "address": "г. Брянск, р-н Бежицкий, б-р 50 лет Октября, д.1",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "СвязьЛазер",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/14612/edit",
+    "salonPhone": {
+      "label": "+7 900 527-36-58",
+      "value": "+79005273658"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.308831,
+    "geoLon": 34.3069928
+  },
+  {
+    "id": 11397,
+    "address": "г. Брянск, р-н Бежицкий, б-р 50 лет Октября, д.1",
+    "representativeName": null,
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "СвязьЛазер",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/14612/edit",
+    "salonPhone": {
+      "label": "+7 900 527-36-58",
+      "value": "+79005273658"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.308831,
+    "geoLon": 34.3069928
+  },
+  {
+    "id": 12908,
+    "address": "г. Брянск, р-н Бежицкий, ул. Медведева, д.5",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КожДоставка",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/22221/edit",
+    "salonPhone": {
+      "label": "+7 900 261-64-41",
+      "value": "+79002616441"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 827-86-51",
+      "value": "+79008278651"
+    },
+    "geoLat": 53.3113754,
+    "geoLon": 34.3015966
+  },
+  {
+    "id": 24326,
+    "address": "г. Брянск, р-н Бежицкий, ул. Медведева, д.5",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КредитСпорт",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/94721/edit",
+    "salonPhone": {
+      "label": "+7 900 561-88-95",
+      "value": "+79005618895"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3113754,
+    "geoLon": 34.3015966
+  },
+  {
+    "id": 21883,
+    "address": "г. Брянск, р-н Бежицкий, ул. Медведева, д.5",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ЗерноКонсалт",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/86915/edit",
+    "salonPhone": {
+      "label": "+7 900 871-08-63",
+      "value": "+79008710863"
+    },
+    "salonManagerPhone": null,
+    "geoLat": 53.3113754,
+    "geoLon": 34.3015966
+  },
+  {
+    "id": 8743,
+    "address": "г. Брянск, р-н Бежицкий, ул. Ростовская, д.4",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "КРСОборон",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/5087/edit",
+    "salonPhone": {
+      "label": "+7 900 401-33-27",
+      "value": "+79004013327"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 739-58-62",
+      "value": "+79007395862"
+    },
+    "geoLat": 53.3060542,
+    "geoLon": 34.310928
+  },
+  {
+    "id": 10017,
+    "address": "г. Брянск, р-н Бежицкий, пер. 22 съезда КПСС, д.19",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ПедОпт",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 1,
+    "brandName": "Matrix",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/9100/edit",
+    "salonPhone": {
+      "label": "+7 900 055-34-92",
+      "value": "+79000553492"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 983-39-88",
+      "value": "+79009833988"
+    },
+    "geoLat": 53.3062025,
+    "geoLon": 34.2789505
+  },
+  {
+    "id": 10018,
+    "address": "г. Брянск, р-н Бежицкий, пер. 22 съезда КПСС, д.19",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ПедОпт",
+    "chiefName": "Халтурин Агафья Ильич",
+    "brandId": 5,
+    "brandName": "L'Oréal Pro",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/9100/edit",
+    "salonPhone": {
+      "label": "+7 900 055-34-92",
+      "value": "+79000553492"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 983-39-88",
+      "value": "+79009833988"
+    },
+    "geoLat": 53.3062025,
+    "geoLon": 34.2789505
+  },
+  {
+    "id": 10016,
+    "address": "г. Брянск, р-н Бежицкий, пер. 22 съезда КПСС, д.19",
+    "representativeName": "Чигракова Лилиана Феликсовна",
+    "status": "assigned",
+    "comment": null,
+    "addedAt": "27.12.2021",
+    "statusName": "Сделать",
+    "canUpdate": true,
+    "name": "ПедОпт",
+    "chiefName": "Копейкина Сила Кузминична",
+    "brandId": 4,
+    "brandName": "Redken",
+    "taskKind": "fill_salon_data",
+    "anchorSalonLink": null,
+    "salonPath": "https://e-ac.ru/web/salons/9100/edit",
+    "salonPhone": {
+      "label": "+7 900 055-34-92",
+      "value": "+79000553492"
+    },
+    "salonManagerPhone": {
+      "label": "+7 900 983-39-88",
+      "value": "+79009833988"
+    },
+    "geoLat": 53.3062025,
+    "geoLon": 34.2789505
+  }
+]
